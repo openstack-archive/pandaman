@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Li Ma <skywalker.nick@gmail.com>
+Workflow+1: Li Ma <skywalker.nick@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 27 Oct 2015 02:38:35 +0000
+Reviewed-on: https://review.openstack.org/239564
+Project: openstack/pandaman
+Branch: refs/heads/master
